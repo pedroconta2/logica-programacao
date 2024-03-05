@@ -1,8 +1,8 @@
-package br.com.unifil.pedroluizforlan.code;
+package br.com.unifil.pedroluizforlan.exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio3Aula {
+public class ExercicioTres {
     public static void main(String[] args) {
         double valor1, valor2;
 
@@ -28,17 +28,5 @@ public class Exercicio3Aula {
         } else {
             System.out.println("Não é possivel dividir");
         }
-
-
-
-
-
-        /*
-        if(valor2 != 0) {
-            System.out.println(valor1 / valor2);
-        } else {
-            System.out.println("Não é possivel dividir ");
-        }
-        */
     }
 }

@@ -1,8 +1,8 @@
-package br.com.unifil.pedroluizforlan.code;
+package br.com.unifil.pedroluizforlan.exercicios;
 
 import java.util.Scanner;
-//Exercicio bi
-public class ExercicioQuatro {
+
+public class ExercicioUm {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -12,5 +12,4 @@ public class ExercicioQuatro {
         if (ano % 4 == 0)
             System.out.println("É bi");
     }
-
 }
